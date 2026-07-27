@@ -28,4 +28,4 @@ the classical control layer and edge deployment of quantum workloads.
 - [PennyLaneAI_catalyst](https://github.com/JJRBEST/PennyLaneAI_catalyst) — JIT compiler for hybrid quantum programs in PennyLane, enabling efficient classical-quantum co-execution
 
 ## 📫 Contact
-[LinkedIn](your-linkedin-url)
+[LinkedIn](https://www.linkedin.com/in/jia-rung-jian-3a5629168/)
