@@ -24,7 +24,7 @@ applying lessons from resource-constrained embedded systems to
 the classical control layer and edge deployment of quantum workloads.
 
 ## 📌 Featured Projects
-- [qiskit-ibm-runtime-c](https://github.com/JJRBEST/qiskit-ibm-runtime-c) — IBM Quantum Platform API C Client, bringing quantum computing closer to the hardware layer
+- [Qiskit_documentation](https://github.com/JJRBEST/Clarify-service-set-max-execution-time-5257) — The documentation content home for https://quantum.cloud.ibm.com/docs
 - [PennyLaneAI_catalyst](https://github.com/JJRBEST/PennyLaneAI_catalyst) — JIT compiler for hybrid quantum programs in PennyLane, enabling efficient classical-quantum co-execution
 
 ## 📜 Certifications
